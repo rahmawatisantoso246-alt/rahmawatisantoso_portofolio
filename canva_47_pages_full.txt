@@ -1,0 +1,676 @@
+TITLE: Portofolio Rahmawati Santoso
+TOTAL PAGES: 47
+
+================================================================================
+PAGE 1: Cover
+================================================================================
+--- TEXTS ---
+  * rahmawati santoso\n
+  * Portofolio\n
+  * Program Assistant Expert, \n
+  * Urban & Regional Planner\n
+--- MEDIA IDs ---
+  6, MADGxwanXt4
+
+================================================================================
+PAGE 2: Icons
+================================================================================
+--- TEXTS ---
+  * About Me\n
+  * Project\n
+  * Skills\n
+  * CONTENT\n
+--- MEDIA IDs ---
+  6, MADoO9Jpc1M, MADyQ7wkiwY, MAEHRwzcmUI, MAFMxahMjjE
+
+================================================================================
+PAGE 3: Outline
+================================================================================
+--- TEXTS ---
+  * rahmawati santoso, S.t., M.S.P.\n
+  * Development planning and public policy professional with experience supporting Presidential Priority Programs and national strategic planning initiatives across Indonesia. Proven expertise in strategic planning, policy analysis, project management, monitoring and evaluation (M&E), stakeholder engagement, and evidence-based decision-making for large-scale public sector programs. Developed a Spatial Decision Support System (SDSS) to support investment prioritization and implementation planning across 500+ municipalities, while coordinating cross-functional teams and translating complex spatial, statistical, and socioeconomic analyses into actionable recommendations for high level decision-makers. \n
+  * ABOUT ME\n
+  * Master of Development Studies\n
+  * Bandung Institute of Technology (ITB), Bandung | 2024 â€“ 2025                          \n
+  * Â·GPA : 3.89/4.00 (Magna Cumlaude)\n
+  * \n
+  * Bachelor of Urban and Regional Planning\n
+  * Bandung Institute of Technology (ITB), Bandung | 2020 â€“ 2024                            \n
+  * Â·GPA : 3.65/4.00 (Cumlaude)\n
+  * \n
+  * \n
+  * rahmawsantoso@gmail.com\n
+  * Rahmawati Santoso\n
+  * +62813 4459 4922\n
+--- MEDIA IDs ---
+  MAB445RjIMU, MAB44zwo9SQ, MAEyhCwwJSQ, MAFPmN6pamY, MAHPVDrcT9s
+
+================================================================================
+PAGE 4: Outline
+================================================================================
+--- TEXTS ---
+  * CORE COMPETENCE\n
+  * Urban & Regional\n
+  * Planning\n
+  * Data Analysis & Visualization\n
+  * Spatial Analysis\n
+  * Urban Design\n
+  * APPS SKILLS\n
+  * AutoCAD\n
+  * Monitoring & Evaluation\n
+  * STATA\n
+  * Microsoft Office\n
+  * Google Workspace\n
+  * QGIS\n
+  * Photoshop\n
+  * Canva\n
+  * Python\n
+  * SketchUp\n
+  * TORA\n
+  * Atlas\n
+  * Google Earth\n
+--- MEDIA IDs ---
+  MAD9dMw1ifU, MADnuOIKhco, MAE3FG9qnVs, MAE6i50Dvwo, MAEF7iXf6T4, MAEGWm-buR8, MAENvwxlUIM, MAEY4tzKjLY, MAEh7KH8ja0, MAF6VAjR2jM, MAF6VI-3PW0, MAF6VJh1RhU, MAF6VNTPQho, MAFfr-xL0Pw, MAFfr335SCM, MAFfr3jdRw0, MAFfr4cWlkE, MAFfr5jfsb8, MAFfr_nqi1Y, MAFfrxUgu1I, MAFfrzuJ5Q0
+
+================================================================================
+PAGE 5: Icons
+================================================================================
+--- TEXTS ---
+  * Project\n
+  * spatial & NON-SPATIAL analysis\n
+  * Location Decision Support System (DSS), Infrastructure, Transportation, Land Use, Land Capability, etc.\n
+
+================================================================================
+PAGE 6: Icons
+================================================================================
+--- TEXTS ---
+  * SPATIAL decision support system :\n
+  * evidence-based site selection and implementation planning for thematic aquaculture programs  \n
+  * As part of the implementation of the Presidential Priority Program at the Ministry of Marine Affairs and Fisheries, I developed a Spatial Decision Support System (SDSS) to support evidence-based decision-making in identifying priority locations for thematic aquaculture development. The system was designed to recommend suitable aquaculture commodities and cultivation technologies based on local characteristics, resource potential, and regional development priorities, with the primary objective of strengthening local protein security. The SDSS integrates a multi-criteria decision-making approach using a comprehensive set of supply and demand.\n
+--- MEDIA IDs ---
+  MAHPVj1_HdM, MAHPVmAOkBA, MAHPVvinrko
+
+================================================================================
+PAGE 7: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Spatial Development Framework for Delineating Development Areas\n
+  * DEVELOPMENT  AREAS CRITERIA :\n
+  * The delineation of development areas was based on multiple planning criteria, including land capability, sustainable agricultural land protection, transportation networks, leading economic sectors, existing land use, the distribution of agricultural commodities, tourism destinations, and industrial activities\n
+  * \n
+  * As part of the Regional Planning Studio, I contributed to the Spatial Structure Team in developing a spatial development framework based on the Regional Cluster (RC) concept, complemented by Green Growth (GG) principles. The framework organizes the region into functional development areas by grouping territories according to their spatial characteristics, economic potential, environmental capacity, and development priorities.\n
+  * DEVELOPMENT CENTERS CRITERIA :\n
+  * The selection of development centers further considered population size, infrastructure availability, accessibility, productive workforce concentration, market locations, food storage facilities, land suitability, and spatial development intensity to establish a balanced and integrated regional development structure.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6hZcWuwI
+
+================================================================================
+PAGE 8: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Spatial Interaction Framework among Development Areas\n
+  * This study translates the Regional Cluster and Green Growth concepts into an integrated spatial interaction framework among development areas. The framework defines interactions between primary centers, sub-centers, and supporting settlements, providing the basis for the regional spatial structure and transportation network. The proposed structure prioritizes the optimization of existing transportation infrastructure while introducing new network connections only where necessary. This approach promotes efficient regional connectivity, supports balanced spatial development, and aligns infrastructure expansion with environmental sustainability principles.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6hgj051Y, MAF6hl2YIO0, MAF6hrUzV-E, MAF6hs4V1Uk
+
+================================================================================
+PAGE 9: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Planning the Hierarchy of Activity Centers\n
+  * This project develops a hierarchical network of activity centers to guide regional spatial development. The proposed hierarchy consists of Local Activity Centers (PKL), Area Service Centers (PPK), and Local Service Centers (PPL), each designed to serve different administrative and functional scales.\n
+  * \n
+  * The designation of activity centers was based on objective planning criteria, including accessibility through arterial and collector road networks, population density, development intensity, infrastructure availability, and administrative functions. Local Activity Centers were identified as strategic urban hubs serving multiple districts, Area Service Centers were established at sub-district capitals, while Local Service Centers were designated in villages with the highest development potential and population concentration to ensure equitable access to public services across the region.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6haFO9F8
+
+================================================================================
+PAGE 10: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Infrastructure Network Development Plan\n
+  * I contributed to making the Infrastructure Network Development Plan by formulating strategic infrastructure proposals based on comprehensive spatial analyses and planning evidence. \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+  * I developed proposals for the water supply network by incorporating the transition from conventional clean water networks to an integrated Drinking Water Supply System (SPAM) in accordance with national planning standards. The proposed infrastructure network was formulated based on identified service gaps, projected development demands, and spatial planning objectives, ensuring that future infrastructure investments would strengthen accessibility, public service provision, and sustainable regional development.\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6hbDwFgs, MAF6hbf0viY
+
+================================================================================
+PAGE 11: Comparison
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Service Center System Analysis\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * Conducted a Service Center System Analysis as part of the preparation of the Kuningan Urban Area Detailed Spatial Plan (RDTR). Performed a scalogram analysis using 21 service facility variables to identify potential service centers, followed by spatial mapping in QGIS to validate and refine the proposed service center hierarchy. The analysis provided a key evidence base for determining the spatial distribution of urban service centers in the planning area.\n
+  * Outpu Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MADWDa9172o, MAFfrI4ZWPU, MAFfrL9K3Gw
+
+================================================================================
+PAGE 12: Numbers
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Spatial Development Intensity Analysis\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * I carried out a Spatial Development Intensity Analysis to identify areas experiencing the highest concentration of urban activities and development pressure within the Kuningan Urban Area. The analysis was performed using the Kernel Density method in QGIS, with the distribution and density of public facilities serving as indicators of spatial agglomeration and urban growth.\n
+  * \n
+  * Through this spatial analysis, I identified existing development clusters and areas with strong potential for future urban expansion. The outputs provided evidence on the intensity of land-use utilization across villages and urban wards, which became an important consideration in determining the location of future service centers and supporting the formulation of the spatial structure in the RDTR.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  6, MAFfrFUdpUU
+
+================================================================================
+PAGE 13: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Road Network System Analysis\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * I conducted a Road Network System Analysis to assess the existing condition and performance of the transportation infrastructure within the planning area. Using the Road Condition Index (RCI) methodology, I evaluated road quality based on pavement conditions and serviceability to identify road segments requiring maintenance, rehabilitation, or upgrading.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  6, MAFfrAc6WQg, MAFfrLkqSGM
+
+================================================================================
+PAGE 14: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Movement and Activity System Analysis\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * I analyzed the urban activity system by examining existing land-use patterns and categorizing them into residential (home-based) and non-residential (non-home-based) activities. This classification was used to understand the spatial distribution of urban functions and to estimate patterns of trip production and trip attraction generated by different land-use types.\n
+  * \n
+  * The analysis explored the relationship between land-use intensity and travel demand, providing insights into the movement patterns of people within the urban area. These findings formed an important analytical basis for transportation planning, helping ensure that future transport infrastructure and service networks would effectively support existing and projected urban activities.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAFfrEg6GsU
+
+================================================================================
+PAGE 15: Numbers
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Public Transportation Network Analysis\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * As part of the transportation planning component of the RDTR, I conducted a Public Transportation Network Analysis to evaluate the accessibility and coverage of existing public transport services. The analysis included assessments of public transport route accessibility, terminal performance based on national minimum service standards, and the overall effectiveness of the transport network in serving urban communities.\n
+  * Using QGIS, I performed a spatial service coverage analysis to identify areas that were adequately served as well as locations with limited or no access to public transportation. The results were used to formulate recommendations for optimizing public transport routes, improving network connectivity, and expanding services to underserved areas as part of the future transportation development strategy.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAFfrSHLpSE
+
+================================================================================
+PAGE 16: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Residential Built Environment Analysis\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * I prepared a Residential Built Environment Analysis to estimate future housing demand and determine long-term residential land requirements within the planning area. Population projections for the 2023â€“2043 planning horizon were developed to estimate the number of additional housing units required over the next twenty years.\n
+  * \n
+  * Based on these projections, I calculated the land requirements for different housing typologies using the nationally adopted 1:2:3 housing composition standard, ensuring consistency with Indonesia's housing development policies.\n
+  * Analysis Link :\n
+  * https://docs.google.com/spreadsheets/d/1scRJs2dCkhRRKPP-ZabXG2iixURm9wJI7ua_iEUg2Qw/edit?usp=share_link\n
+  * Output Link :\n
+  * https://docs.google.com/spreadsheets/d/1scRJs2dCkhRRKPP-ZabXG2iixURm9wJI7ua_iEUg2Qw/edit?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link
+--- MEDIA IDs ---
+  MAFfrRIy4GU, MAFfrUjo5O0, MAFfrY90zeE
+
+================================================================================
+PAGE 17: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Service Center Development Plan\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * Building upon the preceding analytical stages, I contributed to the preparation of the Service Center Development Plan by formulating a hierarchical urban service structure consisting of the Primary Urban Center, Sub-Urban Centers, and Local Service Centers. The planning process involved synthesizing multiple analytical outputs to identify the most appropriate hierarchy and spatial distribution of activity centers across the Kuningan Urban Area.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6kILxYdc
+
+================================================================================
+PAGE 18: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Planning Studio: Road Network Development Plan\n
+  * Kuningan Urban Area Detailed Spatial Plan (RDTR)\n
+  * As part of the preparation of the Kuningan Urban Area Detailed Spatial Plan (RDTR), I contributed to the development of the Road Network Development Plan by translating the findings from the factual and analytical stages into strategic transportation planning recommendations. The proposed road network was formulated by integrating the Revised Kuningan Regency Spatial Plan (RTRW) 2022â€“2042 with additional RDTR proposals based on identified infrastructure gaps, accessibility needs, and future urban growth patterns.\n
+  * \n
+  * These recommendations were designed to strengthen regional connectivity, improve transportation efficiency, and support sustainable urban development within the Kuningan Urban Area.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  6, MAF6kCUZoZ8
+
+================================================================================
+PAGE 19: Icons
+================================================================================
+--- TEXTS ---
+  * Pena\n
+  * Urban Infrastructure Planning Studio: Movement Analysis\n
+  * Kuningan Urban Area\n
+  * As part of the urban transportation planning process, I conducted a Movement Analysis by developing an Originâ€“Destination (Oâ€“D) Matrix to examine both internal and external travel patterns within the Kuningan Urban Area. The analysis quantified the volume and direction of movement between zones, providing insights into travel demand, mobility patterns, and the interaction between activity centers inside and outside the planning area.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAFfrp4M6N8, MAFfrrMbFX4
+
+================================================================================
+PAGE 20: Icons
+================================================================================
+--- TEXTS ---
+  * Pena\n
+  * Urban Infrastructure Planning Studio: Road Level of Service (LOS) Analysis\n
+  * As part of the urban transportation planning process, I conducted a Road Level of Service (LOS) Analysis to evaluate the operational performance of the road network within the Kuningan Urban Area. By assessing the degree of congestion and network performance, I identified road segments requiring capacity improvements and traffic management interventions. The findings served as a key input for formulating road infrastructure development strategies and prioritizing transportation investments within the RDTR.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAFfrkVHtzU, MAFfrruP-UQ
+
+================================================================================
+PAGE 21: Website Mockups
+================================================================================
+--- TEXTS ---
+  * Planning Process Studio: Environmental Physical Analysis\n
+  * Jatiwangi District, Majalengka Regency\n
+  * As part of the Planning Process Studio for Jatiwangi District, I was responsible for the Environmental Physical Planning component, which involved conducting a series of spatial analyses to assess environmental suitability and development constraints. Using QGIS, I performed analyses on Drainage Capability (SKL Drainage), Rainfall Distribution, Landslide Susceptibility, Landslide Vulnerability Zones, Disaster-Prone Areas, and Earthquake Hazard Zones to evaluate environmental risks affecting future regional development.\n
+  * Based on the spatial analysis results, I developed a SWOT (Strengths, Weaknesses, Opportunities, and Threats) Matrix to synthesize the area's development potential and constraints.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1ZUx-eSJoel4pj4X0yYJKQ-WQvpeTqtda?usp=share_link\n
+--- MEDIA IDs ---
+  6, MAFXEDHes9g, MAFXEGFt244, MAFXEGHAc0I, MAFXEJmzw7U, MAFXELNN7c8, MAFXEMP0TYM, MAFXENZNWcA
+
+================================================================================
+PAGE 22: Comparison
+================================================================================
+--- TEXTS ---
+  * Strategic Location Analysis for a Tourism Special Economic Zone (SEZ)\n
+  * Purwakarta Regency\n
+  * Using QGIS, I evaluated potential development areas by assessing their geoeconomic and geostrategic advantages alongside relevant spatial characteristics that support tourism investment and regional economic growth.\n
+  * The analysis integrated multiple spatial datasets to compare alternative locations and identify areas with the highest development potential. The result provided an evidence-based basis for selecting priority locations capable of maximizing regional competitiveness while supporting sustainable tourism and long-term economic development.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- MEDIA IDs ---
+  6, MADWDa9172o, MAFXEZE8a_Q, MAFXEe-JQZU
+
+================================================================================
+PAGE 23: Step by Step
+================================================================================
+--- TEXTS ---
+  * As part of the Introduction to Geology and Environmental Planning course, I developed a Slope Map of Sorong City to assess terrain characteristics and their implications for spatial planning and land-use management. Using DEMNAS data obtained from the Geospatial Information Agency (BIG) and processed in QGIS, I generated a slope classification map to identify variations in topography across the study area. The analysis demonstrated that Sorong City is predominantly characterized by gentle slopes, providing an important baseline for evaluating land suitability, infrastructure development, and future urban expansion.\n
+  * Link:\n
+  * https://drive.google.com/drive/folders/15gKUVSstrQ1oidKSFzFdvzMQvlz98hQW?usp=share_link\n
+  * Geomorphological Analysis: Slope Map Development\n
+  * Case Study: Sorong City, West Papua\n
+--- MEDIA IDs ---
+  MAFXj3foAbM, MAGGCzDUJzY
+
+================================================================================
+PAGE 24: Icons
+================================================================================
+--- TEXTS ---
+  * Project\n
+  * POLICY analysis, \n
+  * MONITORING AND EVALUATION\n
+  * Innovation, Evaluation Framework, Regulatory Review, etc.\n
+
+================================================================================
+PAGE 25: Icons
+================================================================================
+--- TEXTS ---
+  * Conceptualized a Non-Tax State Revenue (PNBP) analysis dashboard to support revenue planning and inform future-year targets. The dashboard enables time-series analysis and revenue breakdowns by category, allowing trends and historical performance to be assessed to guide planning for the following year. It also facilitates year-over-year (YoY) comparisons between actual revenue collections in the current and previous years, providing an evidence-based foundation for setting realistic targets aligned with historical achievements.\n
+  * MARINE AND FISHERIES Non-Tax State Revenue (PNBP) \n
+  * analysis dashboard\n
+--- MEDIA IDs ---
+  MAHZwD1nMN4, MAHZwK7g7TA, MAHZwLBNFgA
+
+================================================================================
+PAGE 26: Icons
+================================================================================
+--- TEXTS ---
+  * Assessment of Blue Economy Implementation in Fishing Villages across Fisheries Management Areas (WPPNRI) 715, 717, and 718 examines the implementation of monitoring and evaluation (M&E) for interventions delivered by Indonesiaâ€™s Ministry of Marine Affairs and Fisheries in collaboration with the Global Environment Facility (GEF) through the Coastal Fisheries Initiative (CFI). \n
+  * \n
+  * A key feature of the M&E analysis is its use of a logical framework-based approach to connect baseline conditions, identified problems, root causes, interventions, outputs, outcomes, and expected impacts. The book presents problem-and-solution framework tables that link root causes to proposed solutions and outputs. The evaluation examines three dimensions. First, Ocean Health is assessed through spatial analysis using the Marine Ecosystem Health Index (MEHI), community perceptions, and an assessment of ecological pressures and resource governance. Second, Ocean Wealth is examined through socioeconomic indicators, including fisheries productivity, operational costs, income, business development, and value creation. Third, Ocean Prosperity is evaluated through the Coastal Community Happiness Index, which considers life satisfaction, emotional well-being, and a sense of meaning in life. Combining these approaches provides a broader understanding of program performance and the changes.\n
+  * logical framework application :\n
+  * blue economy monitoring and evaluation\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1Ei7C0tHQ7e0ngzD5ITx1_a-oaA1HjyCo/view?usp=sharing
+  > Q: https://drive.google.com/file/d/1EXrWpOqMon1GNU39bFyA-St9kkq7G6iB/view?usp=sharing
+--- MEDIA IDs ---
+  MAHZwB2XBKk
+
+================================================================================
+PAGE 27: Icons
+================================================================================
+--- TEXTS ---
+  * Innovation Diffusion through the Multi-Level Perspective (MLP): The Jakartaâ€“Bandung High-Speed Railway\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\n
+  * As part of an innovation policy research project, I conducted an analysis of the Jakartaâ€“Bandung High-Speed Railway (Whoosh) using the Multi-Level Perspective (MLP) framework to examine how large-scale technological innovations emerge, evolve, and become institutionalized. The analysis focused on the interactions among the landscape, regime, and niche levels to understand the complex dynamics that influence innovation adoption throughout the planning and implementation process.\n
+  * \n
+  * Through the MLP framework, I assessed how political priorities, institutional arrangements, economic considerations, technological advancements, and societal factors shaped the development of Indonesia's first high-speed railway. The study highlighted the interplay between macro-level external pressures, existing transportation systems, and emerging technological innovations, demonstrating how these factors collectively facilitated the diffusion and institutionalization of high-speed rail as a transformative transportation innovation in Indonesia.\n
+  * \n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1EXrWpOqMon1GNU39bFyA-St9kkq7G6iB/view?usp=sharing
+--- MEDIA IDs ---
+  MAGeURBY10Q
+
+================================================================================
+PAGE 28: Quote
+================================================================================
+--- TEXTS ---
+  * Program Evaluation Proposal: FLPP Subsidized Housing Program for Low-Income Households\n
+  * A Case Study of West Bandung Regency\n
+  * As part of a public policy evaluation project, I developed an evaluation framework to assess the effectiveness of the Housing Financing Liquidity Facility (FLPP) program in providing subsidized landed housing for low-income households (MBR) in West Bandung Regency. The evaluation focused on determining whether the program had achieved its intended objectives by examining its implementation against established effectiveness criteria. The study adopted a policy evaluation approach supported by regulatory review, program analysis, and evidence-based assessment.\n
+  * \n
+  * To measure program effectiveness, I applied the evaluation indicators including beneficiary eligibility compliance, conformity of subsidized housing prices with government regulations, and the utilization of subsidized housing as the beneficiaries' primary residence. The analysis was designed to identify implementation gaps, evaluate policy performance, and formulate evidence-based recommendations to improve the effectiveness, accountability, and long-term sustainability of Indonesia's subsidized housing program.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/drive/folders/1EBo9T-kzLnab7uGCb9s-ftQ0rGoUsDiW?usp=sharing
+--- MEDIA IDs ---
+  MAGeUR3-olU
+
+================================================================================
+PAGE 29: Icons
+================================================================================
+--- TEXTS ---
+  * Policy Diffusion Theory: Sugar-Sweetened Beverage (SSB) Tax in Indonesia\n
+  * As part of a public policy research project, I conducted a policy analysis of the proposed Sugar-Sweetened Beverage (SSB) Tax in Indonesia using the Policy Diffusion Theory framework. The analysis combined policy review with theoretical assessment to understand the rationale and policy context behind the proposed regulation.\n
+  * \n
+  * Using the policy diffusion framework, I analyzed how international policy experiences, institutional dynamics, and country-specific contextual factors could influence the adoption and implementation of the SSB tax in Indonesia. The study explored the mechanisms through which public health policies are transferred across jurisdictions, identified key opportunities and implementation challenges, and assessed the policy's potential implications for public health, fiscal policy, and regulatory decision-making in the Indonesian context.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1_ft3ZovDmAF_mxIK4RE7Ymt7kHjrdEjo?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/drive/folders/1qWRx7aw1VxRTyWfXZPP73cOpo8-5PqKC?usp=sharing
+--- MEDIA IDs ---
+  MAGeUjZdxlk
+
+================================================================================
+PAGE 30: Icons
+================================================================================
+--- TEXTS ---
+  * Project\n
+  * SOCIAL - ECONOMIC DEVELOPMENT\n
+  * Community Development, Macroeconomic Analysis, Fiancial Analysis, Stakeholder Analysis, etc.\n
+
+================================================================================
+PAGE 31: Icons
+================================================================================
+--- TEXTS ---
+  * \n
+  * ANALYSIS OF COMMUNITY EMPOWERMENT DEVELOPMENT PRACTICES IN INDONESIA\n
+  * A Case Study of Nglanggeran Tourism Village\n
+  * As part of a community development research project, I conducted a comprehensive analysis of community empowerment practices in Nglanggeran Tourism Village, one of Indonesia's leading examples of Community-Based Tourism (CBT). The study examined the design and implementation of community empowerment initiatives by assessing development approaches, intervention areas, leadership characteristics, implementation challenges, stakeholder collaboration, program impacts, and their broader implications for sustainable rural development.\n
+  * \n
+  * Using a qualitative development analysis framework, I evaluated how Community-Based Tourism has contributed to strengthening local capacity through integrated economic, social, and environmental empowerment initiatives. The analysis explored the application of self-help and technical assistance approaches, demonstrating how these complementary strategies fostered community participation, institutional capacity, and collective action.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\n
+--- URLS ---
+  > Q: https://drive.google.com/drive/folders/1SFjoG07P3vCCP8OgWLXSXzPVHNZynCHq?usp=sharing
+--- MEDIA IDs ---
+  MAGeUeg2H-g
+
+================================================================================
+PAGE 32: Icons
+================================================================================
+--- TEXTS ---
+  * Local Community Development in Forest Areas\n
+  * A Case Study of Campakamulya Village, Cimaung District, Bandung Regency\n
+  * Conducted a qualitative analysis of Indonesia's Social Forestry Program using the Development Thinking Framework and Sociotechnogram to examine the interactions between local communities, institutions, and technology in community-based forest management. \n
+  * \n
+  * The study assessed how the program's participatory approach, which grants local communities access rights and management responsibilities over forest resources, contributes to improving the livelihoods of coffee farmers within the Bukit Amanah Forest Village Community Institution (LMDH). The analysis demonstrated that social forestry has strengthened community participation, enhanced local livelihoods and welfare, and promoted more sustainable and inclusive forest management practices.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\n
+  * Development Thinking Framework: LMDH Bukit Amanah Community\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1G-HQT-Fu_Ny0VoVx6dVQF4yvuSbx1QVx/view?usp=sharing
+--- MEDIA IDs ---
+  MAGeUsGTR38
+
+================================================================================
+PAGE 33: Bar Chart
+================================================================================
+--- TEXTS ---
+  * Regional Economic Structure Analysis\n
+  * Case Study: Gross Regional Domestic Product (GRDP) of East Java Province (2019â€“2020)\n
+  * As part of a regional economic analysis project, I analyzed the Gross Regional Domestic Product (GRDP) of East Java Province to evaluate sectoral performance and regional economic competitiveness. The study applied several quantitative analytical methods, including Contribution Analysis, Klassen Typology, Location Quotient (LQ), and Shift-Share Analysis, to examine the structure and dynamics of the regional economy.\n
+  * \n
+  * Using these complementary methods, I identified leading sectors, measured sectoral competitiveness relative to the national economy, classified sectors based on growth and contribution, and assessed structural changes between 2019 and 2020. The analysis provided evidence-based insights into regional economic transformation and served as a basis for identifying priority sectors to support sustainable regional development.\n
+  * \n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1KSmbvMvFf5hnM-p2WIkm4_6FETRrahqo?usp=share_link\n
+--- MEDIA IDs ---
+  MAFXRxpkpZw, MAHZv1QwG2U, MAHZv4UcXBw, MAHZvyUMA1M
+
+================================================================================
+PAGE 34: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Analysis of Regional Public Financial Management Structure\n
+  * A detailed analysis of the APBD structure further shows that regional revenues are primarily composed of Own-Source Revenue (PAD), Transfer Revenue, and Other Legitimate Regional Income. Although PAD demonstrates relatively stable year-to-year growth, its contribution remains substantially lower than transfer revenues, indicating a continued dependence on central government funding and highlighting the limited fiscal independence of Serang Regency.\n
+  * I analyzes the Regional Revenue and Expenditure Budget (APBD) structure of Serang Regency over a six-year period to assess its fiscal composition and financial sustainability.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6jmU_BJA, MAF6jnSFnmE
+
+================================================================================
+PAGE 35: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Analysis of the Tourism Sector's Contribution to Regional Revenue\n
+  * The analysis covers both tourism taxes including hotel, restaurant, and entertainment taxes and tourism service charges generated from recreational and sports facilities. Results show sustained growth in both revenue sources, demonstrating the sector's increasing role in strengthening local fiscal capacity and supporting regional economic recovery.\n
+  * I analyzes the contribution of the tourism sector to Regional Own-Source Revenue (PAD) in Serang Regency over the past five years. The findings indicate a consistent upward trend in tourism-related revenue, with a significant increase between 2020 and 2021 as the region recovered from the COVID-19 pandemic and tourism activities gradually resumed.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6jjXWKGw, MAF6joWFWHw
+
+================================================================================
+PAGE 36: Comparison
+================================================================================
+--- TEXTS ---
+  * Regional Planning Studio: Institutional Analysis of Tourism Development\n
+  * Here, I evaluates the institutional framework supporting tourism development through stakeholder mapping and coordination analysis. \n
+  * The assessment identifies the roles, influence, and interests of government agencies, community organizations, and other actors involved in tourism governance. The findings highlight the need for stronger government support, coordination, and capacity-building to complement community-led tourism management and promote sustainable destination development.\n
+  * \n
+  * Performed stakeholder analysis by evaluating stakeholder roles and functional responsibilities, then mapping their relative levels of influence and interest to support effective tourism development planning.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  MAF6jgtGv1M, MAF6jj__iyI
+
+================================================================================
+PAGE 37: Icons
+================================================================================
+--- TEXTS ---
+  * Project\n
+  * urban design\n
+  * Masterplan, Site Plan, etc.\n
+
+================================================================================
+PAGE 38: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Design Studio: Grand Cheraton â€“ Kacirebonan Palace \n
+  * Mixed-Use Development\n
+  * As part of the Urban Design Studio, I contributed to the design of Grand Cheraton, a mixed-use development surrounding the Kacirebonan Palace in Cirebon. The project began with comprehensive site characterization, identification of urban design issues, theoretical studies, and benchmarking of comparable developments to establish an appropriate planning and design approach.\n
+  * \n
+  * I participated in preparing the master plan by analyzing existing site conditions, reviewing applicable planning policies, conducting site analysis, and developing design responses to address identified opportunities and constraints. These analyses informed the formulation of the project's vision, development objectives, spatial program, design principles, and conceptual framework, culminating in a comprehensive urban design proposal that integrates cultural heritage preservation with contemporary mixed-use development.\n
+--- MEDIA IDs ---
+  MAF2n_-1PRM, MAF6jrXLEac
+
+================================================================================
+PAGE 39: Quote
+================================================================================
+--- TEXTS ---
+  * Urban Design Studio: Grand Cheraton â€“ Kacirebonan Palace \n
+  * Mixed-Use Development\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\n
+--- URLS ---
+  > Q: https://drive.google.com/file/d/1D8olt5T0cF8KVMpIo3d1EQEv1Y42OuLw/view?usp=sharing
+--- MEDIA IDs ---
+  6, MADWDa9172o, MAF2n4ums7c, MAF2nVVXiyQ, MAF2naWrknM, MAF2nfDAbNw, MAF6j1CVk7I
+
+================================================================================
+PAGE 40: Quote
+================================================================================
+--- TEXTS ---
+  * Residential Site Planning Studio: \n
+  * The Hidden Estate â€“ ForestsidE\n
+  * As part of the Residential Site Planning Studio, I developed a luxury residential site plan for The Hidden Estate: Forestside, applying site planning principles to create an integrated residential development. The project consisted of two phases: a collaborative planning phase and an individual design phase.\n
+  * \n
+  * During the collaborative phase, I contributed to site selection analysis, internal and external site assessments, space programming, land-use planning, and the development of alternative spatial structure and design concepts. In the individual phase, I independently prepared the final site plan, designed the supporting infrastructure network, and estimated project development costs, integrating planning, engineering, and financial considerations into a comprehensive residential development proposal.\n
+--- MEDIA IDs ---
+  6, MAFXD7ySIy0
+
+================================================================================
+PAGE 41: Quote
+================================================================================
+--- TEXTS ---
+  * Output Link : \n
+  * https://drive.google.com/drive/folders/1dRc0qOUdhNGpB-aVrY4GOItHjFUMJ2dh?usp=share_link\n
+  * Residential Site Planning Studio: \n
+  * The Hidden Estate â€“ ForestsidE\n
+--- MEDIA IDs ---
+  MAFXDxbwpKw, MAFXDzEEzac
+
+================================================================================
+PAGE 42: Icons
+================================================================================
+--- TEXTS ---
+  * Project\n
+  * statistical analysis\n
+  * Descriptive, Parametric Inferential, Non-Parametric Hypothesis Testing, Association, Factor, Cluster, Scalogram, Multiple Linear Regression, Time Series, Optimization, Qualitative, etc.\n
+
+================================================================================
+PAGE 43: Bar Chart
+================================================================================
+--- TEXTS ---
+  * Infrastructure Economics Analysis\n
+  * Case Study: Kejaksan Railway Station, Cirebon\n
+  * \n
+  * As part of the Regional Infrastructure Economics course, I conducted a comprehensive assessment of Kejaksan Railway Station, the oldest and primary railway station in Cirebon, from an infrastructure economics perspective. The study combined qualitative and quantitative analyses to evaluate the station's physical characteristics, operational functions, and economic significance within the regional transportation system.\n
+  * \n
+  * The analysis examined how transportation infrastructure contributes to regional accessibility, economic activity, and urban development while identifying the station's strategic role within the broader transportation network. The findings provided insights into the relationship between infrastructure investment, service performance, and regional economic development.\n
+  * \n
+  * Output Link : https://drive.google.com/drive/folders/1JhdYCoPLQE9wF2cECC7iKpFjMxjQf4aE?usp=share_link\n
+--- MEDIA IDs ---
+  6, MAFXR2uN5D0
+
+================================================================================
+PAGE 44: Numbers
+================================================================================
+--- TEXTS ---
+  * Cluster Analysis of Regional Economic Potential\n
+  * Case Study: Regencies and Cities in West Papua Province\n
+  * Output Link : https://drive.google.com/drive/folders/1CxWgOVf5i9bFhUgE4hqlHADd2AHbfsoN?usp=share_link\n
+  * As part of the Planning Analysis Methods II course, I conducted a regional economic analysis to classify regencies and cities in West Papua Province based on their economic characteristics. Applying Cluster Analysis, I grouped regions with similar economic profiles to identify spatial patterns of regional competitiveness and development potential.\n
+  * \n
+  * The analysis aimed to support evidence-based regional development planning by providing a systematic classification of local economies. The findings can be used as a reference for designing differentiated provincial development policies, enabling governments to formulate more targeted and effective economic development strategies based on the unique characteristics of each regional cluster.\n
+  * \n
+--- MEDIA IDs ---
+  6, MAFXLm2Y_9Y
+
+================================================================================
+PAGE 45: Contacts
+================================================================================
+--- TEXTS ---
+  * Statistical Planning Analysis Portfolio\n
+  * I completed a series of quantitative planning analyses applying statistical techniques to address real-world urban and regional planning problems.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1G75kiUVhyWLMaUcJD2BNvOL-KAr7okvq?usp=share_link\n
+  * Descriptive Analysis\n
+  * Parametric Inferential Analysis\n
+  * Non-Parametric Hypothesis Testing\n
+  * Association Analysis\n
+  * Factor Analysis\n
+  * Cluster Analysis & Scalogram\n
+  * Multiple Linear Regression\n
+  * Time Series Analysis\n
+  * Optimization Analysis\n
+  * Qualitative Analysis\n
+--- MEDIA IDs ---
+  6
+
+================================================================================
+PAGE 46: Bulleted Page
+================================================================================
+--- TEXTS ---
+  * PYTHON ANALYSIS : \n
+  * METRO INTERSTATE TRAFFIC VOLUME\n
+  * I analyzed an hourly traffic volume dataset from the Minneapolisâ€“Saint Paul metropolitan area to examine the factors influencing traffic flow and congestion patterns. The dataset covered the period from October 2012 to January 2018 and consisted of nine key variables, including holiday status, temperature, rainfall, snowfall, cloud cover, weather conditions, timestamp, and traffic volume. \n
+  * \n
+  * The analysis involved data exploration, statistical analysis, and interpretation of temporal and environmental factors affecting traffic volume.\n
+  * Output Link:\n
+  * https://drive.google.com/drive/folders/1w-WWn3JnkxgzTyh3PLLKkZ8UBNNuO57T?usp=share_link\n
+--- MEDIA IDs ---
+  MAFX-yud0w8
+
+================================================================================
+PAGE 47: Two-Numbers
+================================================================================
+--- TEXTS ---
+  * Contact Me\n
+  * Thank You\n
+  * -------\n
+  * rahmawsantoso@gmail.com\n
+  * Rahmawati Santoso\n
+  * +62813 4459 4922\n
+--- MEDIA IDs ---
+  6, MADnBoBFUeY, MAE1AuWxAmE, MAEvzQVmp9Y, MAGGCy9HSNU
+

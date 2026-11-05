@@ -1,0 +1,208 @@
+﻿PAID
+rahmawati santoso\
+
+About Me\
+
+Project\
+
+Skills\
+
+CONTENT\
+
+\
+
+rahmawati santoso, S.t., M.S.P.\
+
+Development planning and public policy professional with experience supporting Presidential Priority Programs and national strategic planning initiatives across Indonesia. Proven expertise in strategic planning, policy analysis, project management, monitoring and evaluation (M&E), stakeholder engagement, and evidence-based decision-making for large-scale public sector programs. Developed a Spatial Decision Support System (SDSS) to support investment prioritization and implementation planning across 500+ municipalities, while coordinating cross-functional teams and translating complex spatial, statistical, and socioeconomic analyses into actionable recommendations for high level decision-makers. \
+
+ABOUT ME\
+
+rahmawsantoso@gmail.com\
+
+Rahmawati Santoso\
+
++62813 4459 4922\
+
+CORE COMPETENCE\
+
+Data Analysis & Visualization\
+
+Spatial Analysis\
+
+Urban Design\
+
+APPS SKILLS\
+
+AutoCAD\
+
+Monitoring & Evaluation\
+
+STATA\
+
+Microsoft Office\
+
+Google Workspace\
+
+QGIS\
+
+Photoshop\
+
+Canva\
+
+Python\
+
+SketchUp\
+
+TORA\
+
+Atlas\
+
+Google Earth\
+
+Location Decision Support System (DSS), Infrastructure, Transportation, Land Use, Land Capability, etc.\
+
+As part of the implementation of the Presidential Priority Program at the Ministry of Marine Affairs and Fisheries, I developed a Spatial Decision Support System (SDSS) to support evidence-based decision-making in identifying priority locations for thematic aquaculture development. The system was designed to recommend suitable aquaculture commodities and cultivation technologies based on local characteristics, resource potential, and regional development priorities, with the primary objective of strengthening local protein security. The SDSS integrates a multi-criteria decision-making approach using a comprehensive set of supply and demand.\
+
+Regional Planning Studio: Spatial Development Framework for Delineating Development Areas\
+
+As part of the Regional Planning Studio, I contributed to the Spatial Structure Team in developing a spatial development framework based on the Regional Cluster (RC) concept, complemented by Green Growth (GG) principles. The framework organizes the region into functional development areas by grouping territories according to their spatial characteristics, economic potential, environmental capacity, and development priorities.\
+
+Output Link:\
+
+https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_link\
+
+Regional Planning Studio: Spatial Interaction Framework among Development Areas\
+
+Regional Planning Studio: Planning the Hierarchy of Activity Centers\
+
+Regional Planning Studio: Infrastructure Network Development Plan\
+
+I contributed to making the Infrastructure Network Development Plan by formulating strategic infrastructure proposals based on comprehensive spatial analyses and planning evidence. \
+
+I developed proposals for the water supply network by incorporating the transition from conventional clean water networks to an integrated Drinking Water Supply System (SPAM) in accordance with national planning standards. The proposed infrastructure network was formulated based on identified service gaps, projected development demands, and spatial planning objectives, ensuring that future infrastructure investments would strengthen accessibility, public service provision, and sustainable regional development.\
+
+Conducted a Service Center System Analysis as part of the preparation of the Kuningan Urban Area Detailed Spatial Plan (RDTR). Performed a scalogram analysis using 21 service facility variables to identify potential service centers, followed by spatial mapping in QGIS to validate and refine the proposed service center hierarchy. The analysis provided a key evidence base for determining the spatial distribution of urban service centers in the planning area.\
+
+Outpu Link:\
+
+I conducted a Road Network System Analysis to assess the existing condition and performance of the transportation infrastructure within the planning area. Using the Road Condition Index (RCI) methodology, I evaluated road quality based on pavement conditions and serviceability to identify road segments requiring maintenance, rehabilitation, or upgrading.\
+
+As part of the transportation planning component of the RDTR, I conducted a Public Transportation Network Analysis to evaluate the accessibility and coverage of existing public transport services. The analysis included assessments of public transport route accessibility, terminal performance based on national minimum service standards, and the overall effectiveness of the transport network in serving urban communities.\
+
+Using QGIS, I performed a spatial service coverage analysis to identify areas that were adequately served as well as locations with limited or no access to public transportation. The results were used to formulate recommendations for optimizing public transport routes, improving network connectivity, and expanding services to underserved areas as part of the future transportation development strategy.\
+
+Analysis Link :\
+
+https://docs.google.com/spreadsheets/d/1scRJs2dCkhRRKPP-ZabXG2iixURm9wJI7ua_iEUg2Qw/edit?usp=share_link\
+
+Output Link :\
+
+Building upon the preceding analytical stages, I contributed to the preparation of the Service Center Development Plan by formulating a hierarchical urban service structure consisting of the Primary Urban Center, Sub-Urban Centers, and Local Service Centers. The planning process involved synthesizing multiple analytical outputs to identify the most appropriate hierarchy and spatial distribution of activity centers across the Kuningan Urban Area.\
+
+Pena\
+
+As part of the urban transportation planning process, I conducted a Movement Analysis by developing an Originâ€“Destination (Oâ€“D) Matrix to examine both internal and external travel patterns within the Kuningan Urban Area. The analysis quantified the volume and direction of movement between zones, providing insights into travel demand, mobility patterns, and the interaction between activity centers inside and outside the planning area.\
+
+https://drive.google.com/drive/folders/1pQpl95r1trbFvB18tVmzUjF8qXDDZr_E?usp=share_linkhttps://drive.google.com/file/d/1KMET3Akv2dz48TENrTFw5nvAud6ooZI6/view?usp=sharing\
+
+Urban Infrastructure Planning Studio: Road Level of Service (LOS) Analysis\
+
+As part of the urban transportation planning process, I conducted a Road Level of Service (LOS) Analysis to evaluate the operational performance of the road network within the Kuningan Urban Area. By assessing the degree of congestion and network performance, I identified road segments requiring capacity improvements and traffic management interventions. The findings served as a key input for formulating road infrastructure development strategies and prioritizing transportation investments within the RDTR.\
+
+https://drive.google.com/drive/folders/1ZUx-eSJoel4pj4X0yYJKQ-WQvpeTqtda?usp=share_link\
+
+Using QGIS, I evaluated potential development areas by assessing their geoeconomic and geostrategic advantages alongside relevant spatial characteristics that support tourism investment and regional economic growth.\
+
+The analysis integrated multiple spatial datasets to compare alternative locations and identify areas with the highest development potential. The result provided an evidence-based basis for selecting priority locations capable of maximizing regional competitiveness while supporting sustainable tourism and long-term economic development.\
+
+As part of the Introduction to Geology and Environmental Planning course, I developed a Slope Map of Sorong City to assess terrain characteristics and their implications for spatial planning and land-use management. Using DEMNAS data obtained from the Geospatial Information Agency (BIG) and processed in QGIS, I generated a slope classification map to identify variations in topography across the study area. The analysis demonstrated that Sorong City is predominantly characterized by gentle slopes, providing an important baseline for evaluating land suitability, infrastructure development, and future urban expansion.\
+
+Link:\
+
+https://drive.google.com/drive/folders/15gKUVSstrQ1oidKSFzFdvzMQvlz98hQW?usp=share_link\
+
+Innovation, Evaluation Framework, Regulatory Review, etc.\
+
+Conceptualized a Non-Tax State Revenue (PNBP) analysis dashboard to support revenue planning and inform future-year targets. The dashboard enables time-series analysis and revenue breakdowns by category, allowing trends and historical performance to be assessed to guide planning for the following year. It also facilitates year-over-year (YoY) comparisons between actual revenue collections in the current and previous years, providing an evidence-based foundation for setting realistic targets aligned with historical achievements.\
+
+Innovation Diffusion through the Multi-Level Perspective (MLP): The Jakartaâ€“Bandung High-Speed Railway\
+
+Policy Diffusion Theory: Sugar-Sweetened Beverage (SSB) Tax in Indonesia\
+
+https://drive.google.com/drive/folders/1_ft3ZovDmAF_mxIK4RE7Ymt7kHjrdEjo?usp=share_link\
+
+Community Development, Macroeconomic Analysis, Fiancial Analysis, Stakeholder Analysis, etc.\
+
+Development Thinking Framework: LMDH Bukit Amanah Community\
+
+https://drive.google.com/drive/folders/1KSmbvMvFf5hnM-p2WIkm4_6FETRrahqo?usp=share_link\
+
+Regional Planning Studio: Analysis of Regional Public Financial Management Structure\
+
+A detailed analysis of the APBD structure further shows that regional revenues are primarily composed of Own-Source Revenue (PAD), Transfer Revenue, and Other Legitimate Regional Income. Although PAD demonstrates relatively stable year-to-year growth, its contribution remains substantially lower than transfer revenues, indicating a continued dependence on central government funding and highlighting the limited fiscal independence of Serang Regency.\
+
+I analyzes the Regional Revenue and Expenditure Budget (APBD) structure of Serang Regency over a six-year period to assess its fiscal composition and financial sustainability.\
+
+Regional Planning Studio: Analysis of the Tourism Sector\'s Contribution to Regional Revenue\
+
+The analysis covers both tourism taxes including hotel, restaurant, and entertainment taxes and tourism service charges generated from recreational and sports facilities. Results show sustained growth in both revenue sources, demonstrating the sector\'s increasing role in strengthening local fiscal capacity and supporting regional economic recovery.\
+
+I analyzes the contribution of the tourism sector to Regional Own-Source Revenue (PAD) in Serang Regency over the past five years. The findings indicate a consistent upward trend in tourism-related revenue, with a significant increase between 2020 and 2021 as the region recovered from the COVID-19 pandemic and tourism activities gradually resumed.\
+
+Regional Planning Studio: Institutional Analysis of Tourism Development\
+
+Here, I evaluates the institutional framework supporting tourism development through stakeholder mapping and coordination analysis. \
+
+Performed stakeholder analysis by evaluating stakeholder roles and functional responsibilities, then mapping their relative levels of influence and interest to support effective tourism development planning.\
+
+Masterplan, Site Plan, etc.\
+
+Tampak Depan\
+
+Tampak Samping\
+
+Tampak Belakang\
+
+Point Out\
+
+Descriptive, Parametric Inferential, Non-Parametric Hypothesis Testing, Association, Factor, Cluster, Scalogram, Multiple Linear Regression, Time Series, Optimization, Qualitative, etc.\
+
+Output Link : https://drive.google.com/drive/folders/1JhdYCoPLQE9wF2cECC7iKpFjMxjQf4aE?usp=share_link\
+
+Output Link : https://drive.google.com/drive/folders/1CxWgOVf5i9bFhUgE4hqlHADd2AHbfsoN?usp=share_link\
+
+Statistical Planning Analysis Portfolio\
+
+I completed a series of quantitative planning analyses applying statistical techniques to address real-world urban and regional planning problems.\
+
+https://drive.google.com/drive/folders/1G75kiUVhyWLMaUcJD2BNvOL-KAr7okvq?usp=share_link\
+
+Descriptive Analysis\
+
+Parametric Inferential Analysis\
+
+Non-Parametric Hypothesis Testing\
+
+Association Analysis\
+
+Factor Analysis\
+
+Cluster Analysis & Scalogram\
+
+Multiple Linear Regression\
+
+Time Series Analysis\
+
+Optimization Analysis\
+
+Qualitative Analysis\
+
+https://drive.google.com/drive/folders/1w-WWn3JnkxgzTyh3PLLKkZ8UBNNuO57T?usp=share_link\
+
+Contact Me\
+
+Thank You\
+
+-------\
+
+canva:paid:brand:1

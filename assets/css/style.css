@@ -1,0 +1,189 @@
+﻿/* Custom Styling for Rahmawati Santoso Portfolio */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap');
+
+:root {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Space Grotesk', system-ui, -apple-system, sans-serif;
+  
+  /* Primary Theme Colors - Maritime & Urban Planning Palette */
+  --primary: #0284c7;
+  --primary-dark: #0369a1;
+  --primary-light: #38bdf8;
+  --accent: #0d9488;
+  --accent-light: #2dd4bf;
+  --navy-deep: #0b132b;
+  --navy-surface: #1c2541;
+  --slate-dark: #334155;
+  --slate-muted: #64748b;
+  --bg-light: #f8fafc;
+  --surface-light: #ffffff;
+  --border-light: #e2e8f0;
+  
+  --card-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+  --hover-shadow: 0 20px 30px -10px rgba(2, 132, 199, 0.15), 0 10px 15px -5px rgba(15, 23, 42, 0.05);
+  --glow-primary: 0 0 20px rgba(56, 189, 248, 0.35);
+}
+
+.dark {
+  --bg-light: #070d1e;
+  --surface-light: #0f172a;
+  --border-light: #1e293b;
+  --slate-muted: #94a3b8;
+  --card-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.4);
+  --hover-shadow: 0 20px 35px -10px rgba(2, 132, 199, 0.25);
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-light);
+  color: #1e293b;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+}
+
+.dark body {
+  color: #f1f5f9;
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-heading);
+  letter-spacing: -0.02em;
+}
+
+/* Glassmorphism */
+.glass-nav {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(226, 232, 240, 0.8);
+}
+.dark .glass-nav {
+  background: rgba(15, 23, 42, 0.88);
+  border-bottom: 1px solid rgba(30, 41, 59, 0.8);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--border-light);
+}
+.dark .glass-card {
+  background: rgba(15, 23, 42, 0.85);
+  border: 1px solid rgba(51, 65, 85, 0.6);
+}
+
+/* Gradients */
+.gradient-text {
+  background: linear-gradient(135deg, #0284c7 0%, #0d9488 50%, #2563eb 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.dark .gradient-text {
+  background: linear-gradient(135deg, #38bdf8 0%, #2dd4bf 50%, #60a5fa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-hero-bg {
+  background: radial-gradient(circle at 10% 20%, rgba(56, 189, 248, 0.08) 0%, transparent 40%),
+              radial-gradient(circle at 90% 80%, rgba(13, 148, 136, 0.08) 0%, transparent 40%);
+}
+.dark .gradient-hero-bg {
+  background: radial-gradient(circle at 10% 20%, rgba(2, 132, 199, 0.15) 0%, transparent 50%),
+              radial-gradient(circle at 90% 80%, rgba(13, 148, 136, 0.12) 0%, transparent 50%);
+}
+
+/* Project Card Hover Animation */
+.project-card {
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--hover-shadow);
+}
+.project-card:hover .project-image {
+  transform: scale(1.05);
+}
+.project-image {
+  transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Certificate Card */
+.cert-card {
+  transition: all 0.35s ease;
+  position: relative;
+  overflow: hidden;
+}
+.cert-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: linear-gradient(to bottom, var(--primary), var(--accent));
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.cert-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--hover-shadow);
+}
+.cert-card:hover::before {
+  opacity: 1;
+}
+
+/* Custom Badges */
+.badge-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 9999px;
+  transition: all 0.2s ease;
+}
+
+/* Tabs */
+.filter-tab {
+  transition: all 0.25s ease;
+  border-radius: 9999px;
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+.filter-tab.active {
+  background: linear-gradient(135deg, #0284c7, #0369a1);
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(2, 132, 199, 0.3);
+}
+
+/* Modal styling */
+.modal-overlay {
+  background-color: rgba(11, 19, 43, 0.75);
+  backdrop-filter: blur(8px);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-light);
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #334155;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Smooth anchor offset */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}

@@ -1,0 +1,1039 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rahmawati Santoso, S.T., M.S.P. | Program Assistant Expert, Urban & Regional Planner, Senior Data Analyst</title>
+  <meta name="description" content="Official Research & Professional Portfolio of Rahmawati Santoso, S.T., M.S.P. — Development Planning, Monitoring & Evaluation (M&E) Specialist, Spatial Decision Support Systems Architect, and Quantitative Data Analyst." />
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f0f9ff',
+              100: '#e0f2fe',
+              200: '#bae6fd',
+              500: '#0ea5e9',
+              600: '#0284c7',
+              700: '#0369a1',
+              800: '#075985',
+              900: '#0c4a6e',
+            },
+            marine: {
+              500: '#0d9488',
+              600: '#0f766e',
+              700: '#115e59',
+            }
+          },
+          fontFamily: {
+            sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+            heading: ['"Space Grotesk"', 'system-ui', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Google Fonts & Custom CSS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body class="bg-slate-50 text-slate-800 dark:bg-[#070d1e] dark:text-slate-100 antialiased selection:bg-brand-500 selection:text-white">
+
+  <!-- ========================================== -->
+  <!-- NAVIGATION BAR -->
+  <!-- ========================================== -->
+  <header class="fixed top-0 left-0 right-0 z-40 glass-nav transition-all duration-300">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
+      
+      <!-- Brand & Title -->
+      <a href="#hero" class="flex items-center gap-3 group">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-brand-600 to-marine-500 flex items-center justify-center text-white font-bold text-lg shadow-md group-hover:scale-105 transition-transform">
+          RS
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="font-heading font-bold text-base sm:text-lg tracking-tight text-slate-900 dark:text-white group-hover:text-brand-600 dark:group-hover:text-brand-400 transition-colors">
+              Rahmawati Santoso
+            </span>
+            <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300">
+              S.T., M.S.P.
+            </span>
+          </div>
+          <p class="text-[11px] text-slate-500 dark:text-slate-400 font-medium">Program Assistant Expert | Urban & Regional Planner</p>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation Links -->
+      <nav class="hidden lg:flex items-center gap-5 text-xs font-semibold text-slate-600 dark:text-slate-300">
+        <a href="#capabilities" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">Capabilities</a>
+        <a href="#about" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">About & Education</a>
+        <a href="#experience" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">Experience</a>
+        <a href="#projects" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">Marine & Fisheries</a>
+        <a href="#canva-portfolio" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">Portfolio</a>
+        <a href="#publications" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">Publications</a>
+        <a href="#certifications" class="hover:text-brand-600 dark:hover:text-brand-400 transition-colors">Certifications & License</a>
+      </nav>
+
+      <!-- Action Buttons -->
+      <div class="flex items-center gap-3">
+        <!-- Theme Toggle -->
+        <button 
+          id="theme-toggle" 
+          aria-label="Toggle Dark/Light Mode"
+          class="p-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:text-brand-600 dark:hover:text-brand-400 transition-all shadow-sm"
+        >
+          <svg class="w-4 h-4 hidden dark:block" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+          </svg>
+          <svg class="w-4 h-4 block dark:hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+          </svg>
+        </button>
+
+        <!-- Official CV Download Button -->
+        <a 
+          href="CV Rahmawati Santoso - Eng.pdf" 
+          download="CV_Rahmawati_Santoso_Eng.pdf" 
+          class="hidden sm:inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-gradient-to-r from-brand-600 to-marine-600 hover:from-brand-700 hover:to-marine-700 text-white text-xs font-bold shadow-md hover:shadow-lg transition-all"
+        >
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+          </svg>
+          <span>Download CV (PDF)</span>
+        </a>
+
+        <!-- Contact CTA -->
+        <a 
+          href="#contact" 
+          class="inline-flex items-center px-4 py-2.5 rounded-xl border border-brand-500/30 bg-brand-50/50 dark:bg-brand-950/30 text-brand-700 dark:text-brand-300 hover:bg-brand-100 text-xs font-bold transition-all"
+        >
+          Contact
+        </a>
+      </div>
+
+    </div>
+  </header>
+
+  <main class="pt-24">
+
+    <!-- ========================================== -->
+    <!-- HERO SECTION -->
+    <!-- ========================================== -->
+    <section id="hero" class="relative py-12 sm:py-20 lg:py-24 overflow-hidden gradient-hero-bg">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+          
+          <!-- Left Column: Executive Headline & Value Proposition -->
+          <div class="lg:col-span-7 space-y-6">
+            
+            <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-100 dark:bg-blue-950/60 border border-blue-300 dark:border-blue-700/60 text-blue-800 dark:text-blue-300 text-xs font-bold">
+              <span class="w-2 h-2 rounded-full bg-blue-500 animate-pulse"></span>
+              <span>Program Assistant Expert • Urban & Regional Planner • Data Analyst</span>
+            </div>
+
+            <h1 class="text-3xl sm:text-5xl lg:text-6xl font-bold font-heading text-slate-900 dark:text-white tracking-tight leading-[1.15]">
+              Bridging <span class="gradient-text">Evidence-Based Policy</span>, Spatial Analytics &  Development Planning.
+            </h1>
+
+            <p class="text-base sm:text-lg text-slate-600 dark:text-slate-300 leading-relaxed font-normal">
+              <strong>Development planning</strong> and <strong>public policy</strong> professional with experience supporting <strong>Presidential Priority Programs (PKPN)</strong> and national strategic initiatives across Indonesia. Proven expertise in <strong>strategic planning</strong>, <strong>policy analysis</strong>, <strong>project management</strong>, <strong>monitoring and evaluation (M&E)</strong>, and <strong>evidence-based decision-making</strong>. Developed an institutional <strong>Spatial Decision Support System (SDSS)</strong> across <strong>500+ municipalities</strong> for the <strong>Ministry of Marine Affairs and Fisheries (MMAF)</strong>.
+            </p>
+
+            <!-- Key Metric Counters -->
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-2">
+              <div class="glass-card p-4 rounded-xl border border-slate-200/80 dark:border-slate-800">
+                <p class="text-2xl sm:text-3xl font-extrabold text-brand-600 dark:text-brand-400 font-heading">500+</p>
+                <p class="text-xs text-slate-500 dark:text-slate-400 font-medium"><strong>Municipalities SDSS</strong></p>
+              </div>
+              <div class="glass-card p-4 rounded-xl border border-slate-200/80 dark:border-slate-800">
+                <p class="text-2xl sm:text-3xl font-extrabold text-marine-600 dark:text-marine-400 font-heading">94</p>
+                <p class="text-xs text-slate-500 dark:text-slate-400 font-medium"><strong>Cities Baseline</strong> (Bappenas)</p>
+              </div>
+              <div class="glass-card p-4 rounded-xl border border-slate-200/80 dark:border-slate-800">
+                <p class="text-2xl sm:text-3xl font-extrabold text-brand-600 dark:text-brand-400 font-heading">3.89</p>
+                <p class="text-xs text-slate-500 dark:text-slate-400 font-medium"><strong>S2 ITB Magna Cum Laude</strong></p>
+              </div>
+              <div class="glass-card p-4 rounded-xl border border-slate-200/80 dark:border-slate-800">
+                <p class="text-2xl sm:text-3xl font-extrabold text-emerald-600 dark:text-emerald-400 font-heading">17</p>
+                <p class="text-xs text-slate-500 dark:text-slate-400 font-medium"><strong>Verified Credentials</strong></p>
+              </div>
+            </div>
+
+            <!-- Primary CTAs -->
+            <div class="flex flex-wrap items-center gap-4 pt-2">
+              <a 
+                href="#projects" 
+                class="px-6 py-3.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-lg hover:shadow-brand-500/25 transition-all inline-flex items-center gap-2"
+              >
+                <span>View Portfolio Projects (Canva)</span>
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+              </a>
+
+              <a 
+                href="#capabilities" 
+                class="px-6 py-3.5 rounded-xl border border-slate-300 dark:border-slate-700 hover:border-brand-500 bg-white/60 dark:bg-slate-800/60 backdrop-blur-sm text-slate-800 dark:text-slate-200 font-bold text-sm transition-all inline-flex items-center gap-2"
+              >
+                <span>Strategic Capabilities</span>
+              </a>
+
+              <a 
+                href="CV Rahmawati Santoso - Eng.pdf" 
+                download="CV_Rahmawati_Santoso_Eng.pdf" 
+                class="px-5 py-3.5 rounded-xl border border-emerald-500/30 bg-emerald-50/50 dark:bg-emerald-950/30 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-100 font-bold text-sm transition-all inline-flex items-center gap-2"
+              >
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+                </svg>
+                <span>CV (PDF)</span>
+              </a>
+            </div>
+
+          </div>
+
+          <!-- Right Column: Profile Showcase & Badges -->
+          <div class="lg:col-span-5 flex flex-col items-center justify-center">
+            
+            <div class="relative w-72 sm:w-80 group">
+              
+              <!-- Ambient Glow -->
+              <div class="absolute -inset-2 bg-gradient-to-r from-brand-500 via-marine-500 to-emerald-500 rounded-3xl blur-xl opacity-30 group-hover:opacity-60 transition duration-700"></div>
+
+              <!-- Main Card Container -->
+              <div class="relative rounded-2xl overflow-hidden glass-card border border-white/40 dark:border-slate-700/60 shadow-2xl p-3">
+                <img 
+                  src="assets/images/profile_formal.jpg" 
+                  alt="Rahmawati Santoso, S.T., M.S.P." 
+                  class="w-full h-84 sm:h-96 object-cover object-top rounded-xl shadow"
+                />
+
+                <div class="p-4 space-y-2">
+                  <div class="flex items-center justify-between">
+                    <span class="text-xs font-bold text-brand-600 dark:text-brand-400">Jakarta, Indonesia</span>
+                    <span class="text-xs font-semibold px-2 py-0.5 rounded bg-emerald-100 text-emerald-800 dark:bg-emerald-900/50 dark:text-emerald-300">TOEFL 567 (Advanced)</span>
+                  </div>
+                  <h3 class="text-lg font-bold text-slate-900 dark:text-white font-heading leading-tight">Rahmawati Santoso</h3>
+                  <p class="text-xs text-slate-500 dark:text-slate-400">
+                    Dual Honors Alumna: S.T. PWK (Cum Laude, 3.65) & M.S.P. Studi Pembangunan (Magna Cum Laude, 3.89), Institut Teknologi Bandung (ITB)
+                  </p>
+                </div>
+              </div>
+
+              <!-- Floating Micro-Card: MMAF Role -->
+              <div class="absolute -bottom-4 -left-4 sm:-left-6 glass-card p-3 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-xl flex items-center gap-3 backdrop-blur-md">
+                <div class="w-9 h-9 rounded-lg bg-blue-600/10 dark:bg-blue-500/20 text-blue-600 dark:text-blue-400 flex items-center justify-center font-bold text-sm">
+                  🏛️
+                </div>
+                <div>
+                  <p class="text-[11px] font-bold text-slate-900 dark:text-white">Planning Bureau, MMAF</p>
+                  <p class="text-[10px] text-slate-500 dark:text-slate-400">Program Assistant Expert</p>
+                </div>
+              </div>
+
+              <!-- Floating Micro-Card: Dual ITB Degree -->
+              <div class="absolute -top-4 -right-4 sm:-right-6 glass-card p-3 rounded-xl border border-slate-200/80 dark:border-slate-700 shadow-xl flex items-center gap-3 backdrop-blur-md">
+                <div class="w-9 h-9 rounded-lg bg-emerald-600/10 dark:bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold text-sm">
+                  🎓
+                </div>
+                <div>
+                  <p class="text-[11px] font-bold text-slate-900 dark:text-white">Dual ITB Honors</p>
+                  <p class="text-[10px] text-slate-500 dark:text-slate-400">GPA 3.89 & 3.65</p>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- STRATEGIC CAPABILITIES MATRIX -->
+    <!-- ========================================== -->
+    <section id="capabilities" class="py-16 sm:py-20 border-y border-slate-200/80 dark:border-slate-800/80 bg-white/40 dark:bg-slate-900/30">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="max-w-3xl mb-12">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300 text-xs font-bold mb-3">
+            <span>Executive Competency Matrix</span>
+          </div>
+          <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+            Core Professional & Analytical Capabilities
+          </h2>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2 leading-relaxed">
+            Synthesizing development planning, spatial decision support systems, applied econometric modeling, and high-impact policy execution across national priority programs.
+          </p>
+        </div>
+
+        <!-- Dynamic Capabilities Grid (Rendered by main.js) -->
+        <div id="recruiter-appraisal-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6"></div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- ABOUT & DUAL ITB ACADEMIC TRACK -->
+    <!-- ========================================== -->
+    <section id="about" class="py-16 sm:py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+          
+          <div class="lg:col-span-5 space-y-6">
+            <h2 class="text-2xl sm:text-3xl font-bold font-heading text-slate-900 dark:text-white">
+              Professional Profile & Analytical Background
+            </h2>
+            <div class="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed space-y-4">
+              <p>
+                Development planning and public policy professional with experience supporting Presidential Priority Programs and national strategic planning initiatives across Indonesia.
+              </p>
+              <p>
+                Proven expertise in strategic planning, policy analysis, project management, monitoring and evaluation (M&E), stakeholder engagement, and evidence-based decision-making for large-scale public sector programs.
+              </p>
+              <p>
+                Developed a <strong>Spatial Decision Support System (SDSS)</strong> to support investment prioritization and implementation planning across <strong>500+ municipalities</strong> at the <strong>Ministry of Marine Affairs and Fisheries (MMAF)</strong>, while coordinating cross-functional teams and translating complex spatial, statistical, and socioeconomic analyses into actionable recommendations for high-level decision-makers.
+              </p>
+            </div>
+
+            <div class="p-5 rounded-2xl bg-white dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 shadow-sm space-y-3">
+              <div class="flex items-center justify-between">
+                <h4 class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 flex items-center gap-2">
+                  <span>🌐</span>
+                  <span>Language Proficiencies</span>
+                </h4>
+                <span class="text-[10px] font-bold px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300">
+                  Verified TOEFL
+                </span>
+              </div>
+              
+              <div class="grid grid-cols-1 sm:grid-cols-3 gap-2.5">
+                <!-- Indonesian -->
+                <div class="p-3 rounded-xl bg-slate-50 dark:bg-slate-750 border border-slate-200/80 dark:border-slate-700">
+                  <div class="flex items-center justify-between mb-1">
+                    <span class="text-xs font-bold text-slate-900 dark:text-white">Indonesian</span>
+                    <span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-blue-100 text-blue-800 dark:bg-blue-900/50 dark:text-blue-300"><strong>Native</strong></span>
+                  </div>
+                  <p class="text-[11px] text-slate-500 dark:text-slate-400">Mother tongue / Primary working language</p>
+                </div>
+
+                <!-- English -->
+                <div class="p-3 rounded-xl bg-emerald-50/70 dark:bg-emerald-950/30 border border-emerald-300 dark:border-emerald-800/60 shadow-sm">
+                  <div class="flex items-center justify-between mb-1">
+                    <span class="text-xs font-bold text-slate-900 dark:text-white">English</span>
+                    <span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-emerald-100 text-emerald-800 dark:bg-emerald-900/50 dark:text-emerald-300"><strong>Advance</strong></span>
+                  </div>
+                  <p class="text-[11px] text-emerald-700 dark:text-emerald-400 font-semibold mb-2">
+                    Score: <strong>567</strong> (CEFR B2)
+                  </p>
+                  <a 
+                    href="assets/certificates/TOEFL PREDICTION.pdf" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    class="inline-flex items-center gap-1.5 text-[11px] font-bold text-emerald-700 dark:text-emerald-300 hover:text-emerald-900 dark:hover:text-emerald-100 underline"
+                  >
+                    <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                    </svg>
+                    <span>TOEFL Prediction Certificate (PDF)</span>
+                  </a>
+                </div>
+
+                <!-- German -->
+                <div class="p-3 rounded-xl bg-slate-50 dark:bg-slate-750 border border-slate-200/80 dark:border-slate-700">
+                  <div class="flex items-center justify-between mb-1">
+                    <span class="text-xs font-bold text-slate-900 dark:text-white">German</span>
+                    <span class="text-[10px] font-bold px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 dark:bg-amber-900/50 dark:text-amber-300"><strong>Begginer</strong></span>
+                  </div>
+                  <p class="text-[11px] text-slate-500 dark:text-slate-400">Elementary proficiency / Foundational</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Dual ITB Education Cards -->
+          <div class="lg:col-span-7 space-y-6">
+            <h3 class="text-xl font-bold font-heading text-slate-900 dark:text-white flex items-center gap-2">
+              <span>Dual ITB Honors Education Track</span>
+              <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950/40 dark:text-emerald-300">Magna & Cum Laude</span>
+            </h3>
+
+            <!-- Master Degree -->
+            <div class="glass-card p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/40 transition-all">
+              <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 mb-2">
+                <h4 class="text-lg font-bold text-slate-900 dark:text-white">Master of Development Studies (M.S.P.)</h4>
+                <span class="text-xs font-bold px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-900/40 dark:text-emerald-300 w-fit">
+                  GPA 3.89 / 4.00 (Magna Cum Laude)
+                </span>
+              </div>
+              <p class="text-xs sm:text-sm font-semibold text-brand-600 dark:text-brand-400 mb-2">
+                School of Architecture, Planning and Policy Development (SAPPK), Institut Teknologi Bandung (ITB) • 2024 – 2025
+              </p>
+              <p class="text-xs text-slate-600 dark:text-slate-300 mb-3">
+                <strong>Academic Leadership Role:</strong> Data Coordinator (Development Policy Studies). Led quantitative indicator aggregation and policy evaluation frameworks.
+              </p>
+              <div class="text-xs text-slate-500 dark:text-slate-400 space-y-1 border-t border-slate-100 dark:border-slate-800 pt-2 mb-4">
+                <p><strong>Advanced Coursework:</strong> Analysis and Evaluation of Public Policy, Development Project Management, Public Policy Process, Community Empowerment, Sustainable Development, Development Policy Studio.</p>
+              </div>
+              <div>
+                <a 
+                  href="assets/ijazah/Master of Development Studies.pdf" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  class="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 text-emerald-700 dark:text-emerald-300 text-xs font-bold border border-emerald-300 dark:border-emerald-700/60 transition-colors shadow-sm"
+                >
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                  </svg>
+                  <span>Academic Transcript & Degree Certificate (PDF)</span>
+                </a>
+              </div>
+            </div>
+
+            <!-- Bachelor Degree -->
+            <div class="glass-card p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/40 transition-all">
+              <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-1 mb-2">
+                <h4 class="text-lg font-bold text-slate-900 dark:text-white">Bachelor of Urban and Regional Planning (S.T.)</h4>
+                <span class="text-xs font-bold px-3 py-1 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300 w-fit">
+                  GPA 3.65 / 4.00 (Cum Laude)
+                </span>
+              </div>
+              <p class="text-xs sm:text-sm font-semibold text-brand-600 dark:text-brand-400 mb-2">
+                School of Architecture, Planning and Policy Development (SAPPK), Institut Teknologi Bandung (ITB) • 2020 – 2024
+              </p>
+              <p class="text-xs text-slate-600 dark:text-slate-300 mb-3">
+                <strong>Academic Leadership Roles:</strong> Spatial Structure Lead (Regional Planning Studio); Infrastructure Lead (Detailed Spatial Planning Studio); Observation Coordinator (Planning Process Studio).
+              </p>
+              <div class="text-xs text-slate-500 dark:text-slate-400 space-y-1 border-t border-slate-100 dark:border-slate-800 pt-2 mb-4">
+                <p><strong>Advanced Coursework:</strong> Development Control, Planning Evaluation Technique, Planning Law, Regional Economics, Infrastructure and Transportation Economics, Social System and Community Development.</p>
+              </div>
+              <div>
+                <a 
+                  href="assets/ijazah/Bachelor of Urban and Regional Planning.pdf" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  class="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-blue-50 dark:bg-blue-950/40 hover:bg-blue-100 dark:hover:bg-blue-900/60 text-blue-700 dark:text-blue-300 text-xs font-bold border border-blue-300 dark:border-blue-700/60 transition-colors shadow-sm"
+                >
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                  </svg>
+                  <span>Academic Transcript & Degree Certificate (PDF)</span>
+                </a>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- PROFESSIONAL EXPERIENCE SECTION -->
+    <!-- ========================================== -->
+    <section id="experience" class="py-16 sm:py-20 bg-slate-100/50 dark:bg-slate-900/50 border-y border-slate-200/80 dark:border-slate-800/80">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="max-w-3xl mb-12">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-brand-100 text-brand-800 dark:bg-brand-900/40 dark:text-brand-300 text-xs font-bold mb-3">
+            <span>Career Milestones</span>
+          </div>
+          <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+            Professional Experience & Government Advisory
+          </h2>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2">
+            Verifiable track record bridging ministerial bureaus (MMAF, Bappenas), international conservation initiatives, and university research laboratories.
+          </p>
+        </div>
+
+        <div class="space-y-6">
+          
+          <!-- Role 1: Marine and Fisheries Program Assistant Expert -->
+          <div class="glass-card p-6 sm:p-8 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/50 transition-all">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-2">
+              <div>
+                <h3 class="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">Marine and Fisheries Program Assistant Expert</h3>
+                <p class="text-xs sm:text-sm font-semibold text-brand-600 dark:text-brand-400">
+                  Planning Bureau, Ministry of Marine Affairs and Fisheries (MMAF) • Jakarta, Indonesia
+                </p>
+              </div>
+              <span class="text-xs font-bold px-3 py-1 rounded-full bg-brand-50 text-brand-700 dark:bg-brand-900/40 dark:text-brand-300 w-fit">
+                January 2026 – Present
+              </span>
+            </div>
+            <ul class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 space-y-2 mt-4">
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Serve as the primary focal point for an international conservation grant-supported initiative, overseeing project planning, implementation, monitoring and evaluation, stakeholder engagement, and reporting.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Coordinate with government technical units, local communities, conservation stakeholders, and development partners to facilitate project implementation, verify field evidence, and address implementation challenges.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Conduct field-based monitoring and evaluation of marine and fisheries programs, assessing progress, performance indicators, stakeholder participation, and program outcomes.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Developed a <strong>Spatial Decision Support System (SDSS)</strong> to support evidence-based site selection and implementation planning for thematic aquaculture programs across <strong>500+ municipalities</strong>.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Track program implementation and budget realization to prepare monitoring reports, analytical briefs, and executive materials to support management decision-making.</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Role 2: Marine and Fisheries Program Analyst -->
+          <div class="glass-card p-6 sm:p-8 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/50 transition-all">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-2">
+              <div>
+                <h3 class="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">Marine and Fisheries Program Analyst</h3>
+                <p class="text-xs sm:text-sm font-semibold text-brand-600 dark:text-brand-400">
+                  Planning Bureau, Ministry of Marine Affairs and Fisheries (MMAF) • Jakarta, Indonesia
+                </p>
+              </div>
+              <span class="text-xs font-bold px-3 py-1 rounded-full bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300 w-fit">
+                June 2025 – December 2025
+              </span>
+            </div>
+            <ul class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 space-y-2 mt-4">
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Conducted policy research, technical assessments, and implementation reviews for priority programs related to fisheries modernization, aquaculture development, and coastal community empowerment.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Coordinated project monitoring activities and consolidated implementation reports from multiple directorates and technical units.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Supported the integration of Blue Economy principles into strategic planning and policy frameworks through data analysis and stakeholder consultation.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Developed Ministry Strategic Planning (Renstra) and Gender Mainstreaming Roadmap through regulatory review, stakeholder engagement, and policy gap analysis.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Prepared monitoring reports, policy briefs, performance evaluations, and budget utilization analyses to support program decision-making.</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Role 3: Academic Assistantships (ITB) -->
+          <div class="glass-card p-6 sm:p-8 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/50 transition-all">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-2">
+              <div>
+                <h3 class="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">Academic Teaching & Laboratory Assistantships</h3>
+                <p class="text-xs sm:text-sm font-semibold text-brand-600 dark:text-brand-400">
+                  School of Architecture, Planning and Policy Development (SAPPK), ITB • Bandung
+                </p>
+              </div>
+              <span class="text-xs font-bold px-3 py-1 rounded-full bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300 w-fit">
+                August 2022 – December 2024
+              </span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 text-xs sm:text-sm">
+              <div class="space-y-1">
+                <p class="font-bold text-slate-900 dark:text-white">Urban & Regional Statistics Assistant</p>
+                <p class="text-slate-500 dark:text-slate-400 text-xs">Aug 2022 – May 2024</p>
+                <p class="text-slate-600 dark:text-slate-300 text-xs leading-relaxed">
+                  Designed and delivered learning materials on quantitative and qualitative statistical analysis; facilitated <strong>80+ practical sessions</strong> involving STATA, JupyterLab, RStudio, and Atlas.ti for ~50 students.
+                </p>
+              </div>
+              <div class="space-y-1">
+                <p class="font-bold text-slate-900 dark:text-white">Regional Planning Studio Assistant</p>
+                <p class="text-slate-500 dark:text-slate-400 text-xs">Jun 2024 – Dec 2024</p>
+                <p class="text-slate-600 dark:text-slate-300 text-xs leading-relaxed">
+                  Reviewed analytical outputs and spatial planning recommendations across 5 planning dimensions; mentored 30 students through 23+ consultation sessions.
+                </p>
+              </div>
+              <div class="space-y-1">
+                <p class="font-bold text-slate-900 dark:text-white">Human Settlement Laboratory Assistant</p>
+                <p class="text-slate-500 dark:text-slate-400 text-xs">Jun 2024 – Dec 2024</p>
+                <p class="text-slate-600 dark:text-slate-300 text-xs leading-relaxed">
+                  Developed teaching materials on human settlement theories (shell, network, nature, society); guided 7 student groups through research design, fieldwork, and final reporting.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Role 4: Junior Planner Assistant (Bappenas) -->
+          <div class="glass-card p-6 sm:p-8 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/50 transition-all">
+            <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 mb-2">
+              <div>
+                <h3 class="text-lg sm:text-xl font-bold text-slate-900 dark:text-white">Junior Planner Assistant</h3>
+                <p class="text-xs sm:text-sm font-semibold text-brand-600 dark:text-brand-400">
+                  Directorate of Housing & Slum Settlement Areas, Ministry of National Development Planning (Bappenas) • Jakarta
+                </p>
+              </div>
+              <span class="text-xs font-bold px-3 py-1 rounded-full bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300 w-fit">
+                June 2023 – August 2023
+              </span>
+            </div>
+            <ul class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 space-y-2 mt-4">
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Developed national baseline datasets covering <strong>94 municipalities</strong> to support monitoring, policy evaluation, and evidence-based planning for housing development.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Conducted quantitative analyses, proposal assessments, and policy evaluations to support investment prioritization across 4 metropolitan regions.</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Participated in proposal assessment and harmonization processes for <strong>more than 50 local governments</strong> applying for the Integrated Slum Settlement Alleviation Fund (DAK TPPKT).</span>
+              </li>
+              <li class="flex items-start gap-2">
+                <span class="text-brand-500 font-bold">•</span>
+                <span>Contributed to strategic projects including the <strong>National Long-Term Development Plan (RPJPN 2025–2045)</strong>, housing PPP initiatives, and rental housing programs.</span>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- ORGANIZATIONAL LEADERSHIP EXPERIENCE -->
+    <!-- ========================================== -->
+    <section id="leadership" class="py-16 sm:py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="max-w-3xl mb-12">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950/40 dark:text-emerald-300 text-xs font-bold mb-3">
+            <span>Organizational Track</span>
+          </div>
+          <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+            Organizational Leadership & Community Action
+          </h2>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2">
+            Demonstrated capability in leading diverse teams, driving OKR milestones, orchestrating large-scale events, and delivering community infrastructure.
+          </p>
+        </div>
+
+        <!-- Timeline Container (Rendered by main.js) -->
+        <div id="organizational-timeline" class="max-w-4xl"></div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- CORE COMPETENCIES & TECHNICAL STACK -->
+    <!-- ========================================== -->
+    <section id="competencies" class="py-16 sm:py-20 bg-slate-100/50 dark:bg-slate-900/50 border-y border-slate-200/80 dark:border-slate-800/80">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="text-center max-w-3xl mx-auto mb-14">
+          <span class="text-xs font-bold px-3 py-1 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300 uppercase tracking-wider">
+            Technical Stack
+          </span>
+          <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white mt-3">
+            Core Competencies & Tool Ecosystem
+          </h2>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2">
+            Technical proficiencies directly reflecting Canva Page 4 and professional CV standards.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+          
+          <!-- Competency 1: Planning & M&E -->
+          <div class="glass-card p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/40 transition-all">
+            <div class="w-10 h-10 rounded-xl bg-blue-600/10 text-blue-600 dark:text-blue-400 flex items-center justify-center font-bold text-lg mb-4">
+              🎯
+            </div>
+            <h3 class="text-base font-bold text-slate-900 dark:text-white mb-2">Planning, M&E & Policy</h3>
+            <p class="text-xs text-slate-600 dark:text-slate-300 mb-4 leading-relaxed">
+              Results-Based Management and indicator tracking for national programs.
+            </p>
+            <ul class="text-xs space-y-1.5 text-slate-700 dark:text-slate-300">
+              <li>✔ Logical Framework (LogFrame)</li>
+              <li>✔ Theory of Change (ToC)</li>
+              <li>✔ Project Cycle Management</li>
+              <li>✔ Field Verification & Indicators</li>
+              <li>✔ Renstra & Gender Mainstreaming (PPRG)</li>
+            </ul>
+          </div>
+
+          <!-- Competency 2: Spatial & SDSS -->
+          <div class="glass-card p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-marine-500/40 transition-all">
+            <div class="w-10 h-10 rounded-xl bg-teal-600/10 text-teal-600 dark:text-teal-400 flex items-center justify-center font-bold text-lg mb-4">
+              🗺️
+            </div>
+            <h3 class="text-base font-bold text-slate-900 dark:text-white mb-2">Spatial Analysis & SDSS</h3>
+            <p class="text-xs text-slate-600 dark:text-slate-300 mb-4 leading-relaxed">
+              Spatial Decision Support Systems, multi-criteria modeling, and cartography.
+            </p>
+            <ul class="text-xs space-y-1.5 text-slate-700 dark:text-slate-300">
+              <li>✔ QGIS & ArcGIS Pro (ESRI Certified)</li>
+              <li>✔ Google Earth & Google Earth Engine</li>
+              <li>✔ BIG DEMNAS Topography & Slope</li>
+              <li>✔ Network Routing & O-D Matrix</li>
+              <li>✔ Land Capability Units (SKL)</li>
+            </ul>
+          </div>
+
+          <!-- Competency 3: Data Analysis & Software -->
+          <div class="glass-card p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-brand-500/40 transition-all">
+            <div class="w-10 h-10 rounded-xl bg-sky-600/10 text-sky-600 dark:text-sky-400 flex items-center justify-center font-bold text-lg mb-4">
+              📊
+            </div>
+            <h3 class="text-base font-bold text-slate-900 dark:text-white mb-2">Data Science & Software</h3>
+            <p class="text-xs text-slate-600 dark:text-slate-300 mb-4 leading-relaxed">
+              Quantitative data wrangling, econometrics, and optimization.
+            </p>
+            <ul class="text-xs space-y-1.5 text-slate-700 dark:text-slate-300">
+              <li>✔ STATA & RStudio (Econometrics)</li>
+              <li>✔ Python (Pandas, Matplotlib, Seaborn)</li>
+              <li>✔ TORA (Linear Programming)</li>
+              <li>✔ Atlas.ti (Qualitative Coding)</li>
+              <li>✔ Tableau Desktop & Microsoft Excel</li>
+            </ul>
+          </div>
+
+          <!-- Competency 4: Urban Design & Modeling -->
+          <div class="glass-card p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800 hover:border-emerald-500/40 transition-all">
+            <div class="w-10 h-10 rounded-xl bg-emerald-600/10 text-emerald-600 dark:text-emerald-400 flex items-center justify-center font-bold text-lg mb-4">
+              📐
+            </div>
+            <h3 class="text-base font-bold text-slate-900 dark:text-white mb-2">Urban Design & Modeling</h3>
+            <p class="text-xs text-slate-600 dark:text-slate-300 mb-4 leading-relaxed">
+              Master planning, 3D site modeling, and spatial communication.
+            </p>
+            <ul class="text-xs space-y-1.5 text-slate-700 dark:text-slate-300">
+              <li>✔ AutoCAD (Drafting & Networks)</li>
+              <li>✔ SketchUp (3D Massing & Site Design)</li>
+              <li>✔ Adobe Photoshop & Canva</li>
+              <li>✔ Site Plan Cost Estimation (RAB)</li>
+              <li>✔ Detailed Zoning Text (ITBX Matrix)</li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- PORTFOLIO & PROJECTS SECTION -->
+    <!-- ========================================== -->
+    <section id="projects" class="py-16 sm:py-20">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <!-- ======================================================== -->
+        <!-- 1. DEDICATED MMAF STRATEGIC INITIATIVES SECTION (LATEST) -->
+        <!-- ======================================================== -->
+        <div class="mb-20">
+          <div class="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4 pb-4 border-b border-slate-200/80 dark:border-slate-800/80">
+            <div>
+              <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-teal-100 text-teal-800 dark:bg-teal-950/60 dark:text-teal-300 text-xs font-bold mb-3 border border-teal-300 dark:border-teal-700/60">
+                <span class="w-2 h-2 rounded-full bg-teal-500 animate-pulse"></span>
+                <span><strong>Latest Experience</strong> • <strong>Ministry of Marine Affairs and Fisheries (MMAF)</strong></span>
+              </div>
+              <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+                <strong>Marine and Fisheries Development Planning</strong>
+              </h2>
+              <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2 max-w-4xl leading-relaxed">
+                Strategic initiatives portfolio and public policy advisory at the <strong>Planning Bureau, Ministry of Marine Affairs and Fisheries (MMAF)</strong>, encompassing <strong>Presidential Priority Programs (PKPN)</strong>, <strong>Spatial Decision Support System (SDSS)</strong> across <strong>500+ municipalities</strong>, <strong>PNBP Analysis Dashboard</strong>, <strong>Blue Economy Evaluation</strong>, <strong>MMAF Strategic Plan 2025–2029 (Renstra)</strong>, <strong>Gender Mainstreaming Roadmap (PPRG)</strong>, and the <strong>MMAF Performance Report 2025</strong>.
+              </p>
+            </div>
+            <div class="hidden sm:flex items-center gap-2 text-xs font-semibold text-teal-700 dark:text-teal-300 bg-teal-50 dark:bg-teal-950/40 px-3 py-2 rounded-xl border border-teal-200 dark:border-teal-800/60">
+              <span>🏛️ <strong>6 Flagship Deliverables</strong></span>
+            </div>
+          </div>
+
+          <!-- MMAF Dedicated Grid Container (Rendered by main.js) -->
+          <div id="mmaf-projects-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8"></div>
+        </div>
+
+        <!-- ======================================================== -->
+        <!-- 2. CANVA RESEARCH, STUDIO & PLANNING CATALOG             -->
+        <!-- ======================================================== -->
+        <div id="canva-portfolio">
+          <div class="flex flex-col md:flex-row md:items-end justify-between mb-8 gap-4">
+            <div>
+              <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-900/40 dark:text-blue-300 text-xs font-bold mb-3">
+                <span><strong>Official Canva Portfolio Catalog</strong></span>
+              </div>
+              <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+                <strong>Featured Research, Studio & Planning Portfolio</strong>
+              </h2>
+              <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-1">
+                Accurately structured across 5 core thematic clusters from the official portfolio (<a href="https://bit.ly/PortofolioRahmawatiSantoso" target="_blank" rel="noopener noreferrer" class="text-brand-600 dark:text-brand-400 font-bold underline"><strong>bit.ly/PortofolioRahmawatiSantoso</strong></a>).
+              </p>
+            </div>
+
+            <!-- Live Search Bar -->
+            <div class="w-full md:w-72">
+              <div class="relative">
+                <input 
+                  type="text" 
+                  id="project-search" 
+                  placeholder="Search projects, tools, tags..." 
+                  class="w-full pl-9 pr-4 py-2 text-xs rounded-xl border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500"
+                />
+                <svg class="w-4 h-4 absolute left-3 top-2.5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+                </svg>
+              </div>
+            </div>
+          </div>
+
+          <!-- Filter Tabs: 5 Canva Thematic Categories -->
+          <div class="flex flex-wrap items-center gap-2 mb-10 border-b border-slate-200 dark:border-slate-800 pb-4">
+            <button class="project-filter-btn filter-tab active px-4 py-2 bg-blue-600 text-white" data-category="all">
+              <strong>All Projects (20)</strong>
+            </button>
+            <button class="project-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-brand-600" data-category="spatial-analysis">
+              <strong>Spatial & Non-Spatial Analysis</strong>
+            </button>
+            <button class="project-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-brand-600" data-category="policy-me">
+              <strong>Policy Analysis, M&E</strong>
+            </button>
+            <button class="project-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-brand-600" data-category="socio-economic">
+              <strong>Socio-Economic Development</strong>
+            </button>
+            <button class="project-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-brand-600" data-category="urban-design">
+              <strong>Urban Design</strong>
+            </button>
+            <button class="project-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-brand-600" data-category="statistical-analysis">
+              <strong>Statistical Analysis</strong>
+            </button>
+          </div>
+
+          <!-- Projects Grid Container (Rendered by main.js) -->
+          <div id="projects-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- ACADEMIC PUBLICATIONS & POLICY BRIEFS      -->
+    <!-- ========================================== -->
+    <section id="publications" class="py-16 sm:py-20 border-t border-slate-200/80 dark:border-slate-800/80 bg-slate-50/50 dark:bg-slate-900/40">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="max-w-3xl mb-12">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-100 text-purple-800 dark:bg-purple-950/60 dark:text-purple-300 text-xs font-bold mb-3 border border-purple-300 dark:border-purple-700/60">
+            <span>Peer-Reviewed Research & Strategic Policy Briefs</span>
+          </div>
+          <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+            <strong>Academic Publications & Policy Briefs</strong>
+          </h2>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2 leading-relaxed">
+            Empirical research papers and executive policy briefs published in accredited scientific journals (TATALOKA, JSA, JISS) and institutional development studios.
+          </p>
+        </div>
+
+        <!-- Publications Grid Container (Rendered by main.js) -->
+        <div id="publications-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8"></div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- CERTIFICATIONS & CREDENTIALS -->
+    <!-- ========================================== -->
+    <section id="certifications" class="py-16 sm:py-20 bg-slate-100/50 dark:bg-slate-900/50 border-y border-slate-200/80 dark:border-slate-800/80">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        
+        <div class="max-w-3xl mb-8">
+          <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-100 text-emerald-800 dark:bg-emerald-950/40 dark:text-emerald-300 text-xs font-bold mb-3">
+            <span>Verified Credentials</span>
+          </div>
+          <h2 class="text-2xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+            <strong>Certifications & License</strong>
+          </h2>
+          <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 mt-2">
+            <strong>17 verified professional credentials and licenses</strong> with analytical evaluations detailing practical impacts across <strong>marine policy</strong>, <strong>geospatial systems (SDSS)</strong>, <strong>Python data science</strong>, <strong>English proficiency (TOEFL 567)</strong>, and <strong>leadership</strong>.
+          </p>
+        </div>
+
+        <!-- Certificate Category Filter Tabs -->
+        <div class="flex flex-wrap items-center gap-2 mb-10 border-b border-slate-200 dark:border-slate-800 pb-4">
+          <button class="cert-filter-btn filter-tab active px-4 py-2 bg-emerald-600 text-white" data-category="all">
+            <strong>All Credentials (17)</strong>
+          </button>
+          <button class="cert-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600" data-category="marine-policy">
+            Marine & Public Policy
+          </button>
+          <button class="cert-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600" data-category="spatial-gis">
+            Spatial & SDSS
+          </button>
+          <button class="cert-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600" data-category="data-science">
+            Data Science & Python Stack
+          </button>
+          <button class="cert-filter-btn filter-tab px-4 py-2 text-slate-600 dark:text-slate-300 hover:text-emerald-600" data-category="governance-leadership">
+            Leadership & Governance
+          </button>
+        </div>
+
+        <!-- Certificates Grid Container (Rendered by main.js) -->
+        <div id="certificates-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8"></div>
+
+      </div>
+    </section>
+
+    <!-- ========================================== -->
+    <!-- CONTACT & INQUIRIES -->
+    <!-- ========================================== -->
+    <section id="contact" class="py-16 sm:py-24 relative overflow-hidden">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        
+        <div class="glass-card rounded-3xl border border-brand-500/20 bg-gradient-to-br from-white/95 via-blue-50/50 to-emerald-50/30 dark:from-slate-900/90 dark:via-slate-850 dark:to-slate-900/90 p-8 sm:p-12 lg:p-16 shadow-2xl">
+          
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+            
+            <div class="lg:col-span-7 space-y-6">
+              <span class="px-3 py-1 rounded-full bg-blue-100 text-blue-800 dark:bg-blue-950/40 dark:text-blue-300 text-xs font-bold uppercase tracking-wider">
+                Professional & Research Inquiries
+              </span>
+              <h2 class="text-3xl sm:text-4xl font-bold font-heading text-slate-900 dark:text-white tracking-tight">
+                Connect with Rahmawati Santoso
+              </h2>
+              <p class="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed">
+                Open to technical consultancies, research appointments, and leadership roles in <strong>Development Planning</strong>, <strong>Monitoring & Evaluation (M&E)</strong>, <strong>Spatial Decision Support Systems</strong>, and <strong>Quantitative Policy Analytics</strong>.
+              </p>
+
+              <div class="space-y-3 pt-2">
+                <div class="flex items-center gap-3 text-sm text-slate-700 dark:text-slate-300">
+                  <div class="w-8 h-8 rounded-lg bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-300 flex items-center justify-center font-bold">
+                    ✉
+                  </div>
+                  <a href="mailto:rahmawsantoso@gmail.com" class="hover:text-blue-600 dark:hover:text-blue-400 font-semibold transition-colors">
+                    rahmawsantoso@gmail.com
+                  </a>
+                </div>
+
+                <div class="flex items-center gap-3 text-sm text-slate-700 dark:text-slate-300">
+                  <div class="w-8 h-8 rounded-lg bg-emerald-100 dark:bg-emerald-900/50 text-emerald-600 dark:text-emerald-300 flex items-center justify-center font-bold">
+                    📞
+                  </div>
+                  <a href="tel:+6281344594922" class="hover:text-emerald-600 dark:hover:text-emerald-400 font-semibold transition-colors">
+                    +62 813-4459-4922
+                  </a>
+                </div>
+
+                <div class="flex items-center gap-3 text-sm text-slate-700 dark:text-slate-300">
+                  <div class="w-8 h-8 rounded-lg bg-sky-100 dark:bg-sky-900/50 text-sky-600 dark:text-sky-300 flex items-center justify-center font-bold">
+                    🔗
+                  </div>
+                  <a href="https://linkedin.com/in/Rahmawati-Santoso" target="_blank" rel="noopener noreferrer" class="hover:text-sky-600 dark:hover:text-sky-400 font-semibold transition-colors">
+                    linkedin.com/in/Rahmawati-Santoso
+                  </a>
+                </div>
+
+                <div class="flex items-center gap-3 text-sm text-slate-700 dark:text-slate-300">
+                  <div class="w-8 h-8 rounded-lg bg-purple-100 dark:bg-purple-900/50 text-purple-600 dark:text-purple-300 flex items-center justify-center font-bold">
+                    📍
+                  </div>
+                  <span><strong>Jakarta, Indonesia</strong></span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Right Column Card with Direct Download -->
+            <div class="lg:col-span-5 glass-card p-6 sm:p-8 rounded-2xl border border-slate-200 dark:border-slate-800 bg-white/80 dark:bg-slate-800/80 space-y-4 text-center">
+              <div class="w-16 h-16 rounded-2xl bg-brand-600/10 text-brand-600 dark:text-brand-400 flex items-center justify-center mx-auto text-2xl">
+                📄
+              </div>
+              <h3 class="text-lg font-bold text-slate-900 dark:text-white">Download Complete Curriculum Vitae</h3>
+              <p class="text-xs text-slate-500 dark:text-slate-400">
+                Official English CV formatted with verifiable metrics and academic credentials.
+              </p>
+              
+              <a 
+                href="CV Rahmawati Santoso - Eng.pdf" 
+                download="CV_Rahmawati_Santoso_Eng.pdf" 
+                class="w-full inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-gradient-to-r from-brand-600 to-marine-600 hover:from-brand-700 hover:to-marine-700 text-white font-bold text-sm shadow-lg hover:shadow-brand-500/25 transition-all"
+              >
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/>
+                </svg>
+                <span>Download CV Rahmawati Santoso - Eng.pdf</span>
+              </a>
+
+              <p class="text-[11px] text-slate-400">PDF • Official Verified Document</p>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ========================================== -->
+  <!-- FOOTER -->
+  <!-- ========================================== -->
+  <footer class="py-8 border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-center text-xs text-slate-500 dark:text-slate-400">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <p>© 2026 Rahmawati Santoso, S.T., M.S.P. All rights reserved.</p>
+      <div class="flex items-center gap-4">
+        <a href="#hero" class="hover:underline">Back to Top</a>
+        <span>•</span>
+        <a href="CV Rahmawati Santoso - Eng.pdf" class="hover:underline">CV Document</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ========================================== -->
+  <!-- MODAL: PROJECT & CERTIFICATE DOSSIER -->
+  <!-- ========================================== -->
+  <div id="project-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4 sm:p-6 overflow-y-auto modal-overlay animate-fadeIn">
+    <div class="relative w-full max-w-4xl glass-card rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-700 overflow-hidden my-8 max-h-[90vh] overflow-y-auto">
+      <button 
+        onclick="closeModal('project-modal')" 
+        class="absolute top-4 right-4 z-20 w-9 h-9 rounded-full bg-slate-900/80 backdrop-blur-md text-white hover:bg-slate-900 flex items-center justify-center transition-all shadow"
+        aria-label="Close modal"
+      >
+        ✕
+      </button>
+      <div id="project-modal-content"></div>
+    </div>
+  </div>
+
+  <!-- ========================================== -->
+  <!-- MODAL: HIGH-RESOLUTION CERTIFICATE ZOOM -->
+  <!-- ========================================== -->
+  <div id="certificate-modal" class="fixed inset-0 z-50 hidden flex items-center justify-center p-4 sm:p-6 modal-overlay animate-fadeIn">
+    <div class="relative max-w-5xl w-full glass-card p-3 rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-700">
+      <button 
+        onclick="closeModal('certificate-modal')" 
+        class="absolute -top-3 -right-3 z-20 w-9 h-9 rounded-full bg-slate-900 text-white hover:bg-black flex items-center justify-center shadow-lg transition-all"
+        aria-label="Close image modal"
+      >
+        ✕
+      </button>
+      <div class="rounded-xl overflow-hidden bg-slate-950 flex items-center justify-center max-h-[85vh]">
+        <img id="certificate-modal-image" src="" alt="Certificate Zoom" class="w-full h-auto max-h-[85vh] object-contain"/>
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript Bundle -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>
